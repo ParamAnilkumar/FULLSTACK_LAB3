@@ -1,1 +1,0 @@
-# FULLSTACK_LAB3
